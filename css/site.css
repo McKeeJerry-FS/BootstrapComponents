@@ -20,6 +20,15 @@ footer {
 }
 /* #endregion */
 
+/* name logo */
+#name_logo {
+    height: 25px;
+}
+
+#nav_logo{
+    height: 25px;
+}
+
 ul {
     list-style-type: none;   
 }
