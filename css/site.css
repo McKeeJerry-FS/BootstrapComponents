@@ -20,7 +20,15 @@ footer {
 }
 /* #endregion */
 
-/* name logo */
+
+ul {
+    list-style-type: none;   
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* branding elements */
 #name_logo {
     height: 35px;
 }
@@ -29,10 +37,3 @@ footer {
     height: 25px;
     width: 45px;
 }
-
-ul {
-    list-style-type: none;   
-}
-::-webkit-scrollbar-thumb:hover {
-    background: #555;
-  }
