@@ -22,11 +22,12 @@ footer {
 
 /* name logo */
 #name_logo {
-    height: 45px;
+    height: 35px;
 }
 
 #nav_logo{
     height: 25px;
+    width: 45px;
 }
 
 ul {
